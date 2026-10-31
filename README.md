@@ -1,138 +1,192 @@
 
 <div align="center">
 
-# Hey, I'm Shivam S. Kulat 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shivam%20S.%20Kulat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Intelligent%20Solutions&descAlignY=58&descSize=16" width="100%" />
 
-### Computer Science & AI/ML Student | Aspiring Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;Building+Projects+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+AI%2FML+Student;Aspiring+Software+Developer;Data+Science+%26+ML+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Always+Learning.+Always+Building." />
 
 <br/>
 
 <a href="https://github.com/shivamkulat14">
-<img src="https://img.shields.io/badge/GitHub-shivamkulat14-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/shivamkulat14?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=shivamkulat14&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & AI/ML student (2024–2028).
-- 💻 Interested in Software Development, Data Science and Machine Learning.
-- 🐍 Currently strengthening my Python and SQL skills.
-- 🧠 Exploring Machine Learning, Data Analytics and Backend Development.
-- 🔨 Love building practical projects and participating in hackathons.
-- 📚 Believe in consistency, discipline and continuous learning.
+Hey! I'm **Shivam Kulat**, a Computer Science and Artificial Intelligence student passionate about building technology that solves real-world problems.
+
+- 🎓 B.Tech in Computer Science & AI/ML (2024–2028).
+- 🐍 Exploring Python, Data Science and Machine Learning.
+- 📊 Interested in Data Analytics, SQL and intelligent systems.
+- ⚙️ Building backend applications and full-stack projects.
+- 🚀 Participating in hackathons and developing practical solutions.
+- 🎯 Focused on becoming a skilled Software Developer and ML Engineer.
+
+> I believe in learning by building, improving through consistency, and turning ideas into working solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technology Arsenal
+
+<div align="center">
 
 ### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 
 ### Data Science & Machine Learning
-<p>
+
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
-</p>
 
 ### Web Development & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flask,fastapi" />
-</p>
 
-### Database & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flask,fastapi" />
+
+### Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,git,github,vscode" />
+
+</div>
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛡️ SAFEHER
-Women safety platform with SOS alerts, location tracking and emergency notifications.
 
-**Tech:** Flask, MySQL, Firebase, Leaflet.js
+Women safety platform featuring emergency SOS alerts, location tracking and notification systems.
 
-### 🌾 Agricultural Crop Health & Harvest Prediction
-A project focused on crop health analysis and harvest prediction.
+**Tech Stack:** Python, Flask, MySQL, Firebase, Leaflet.js.
 
-**Tech:** Python, Machine Learning, Data Science
+</td>
+<td width="50%">
+
+### 🌾 Crop Health & Harvest Prediction
+
+Agricultural project focused on crop health analysis and harvest prediction using data-driven techniques.
+
+**Focus:** Python, Data Science, Machine Learning.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🎯 KaushalMitra – SIH
-A skill-development platform designed around vocational interests and career guidance.
 
-**Tech:** FastAPI, Supabase, PostgreSQL
+Skill development and vocational guidance platform designed to connect users with suitable learning opportunities.
 
-### 📊 SQL Learning Journey
-A structured repository documenting SQL concepts, practice questions and assignments.
+**Tech Stack:** FastAPI, Supabase, PostgreSQL.
 
-<a href="https://github.com/shivamkulat14/Structured-Querry-Language-SQL-">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
+</td>
+<td width="50%">
+
+### 🗄️ SQL Learning Journey
+
+A structured collection of SQL concepts, assignments, query practice and implementations.
+
+<a href="https://github.com/shivamkulat14/Structured-Querry-Language-SQL-">Explore Repository →</a>
+
+**Tech Stack:** SQL, PostgreSQL.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivamkulat14&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkulat14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkulat14&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkulat14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkulat14&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shivamkulat14&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivamkulat14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 📈 Contribution Activity
 
-- 📌 Data Structures & Algorithms
-- 📌 NumPy, Pandas and Data Visualization
-- 📌 Machine Learning fundamentals
-- 📌 SQL and Database Management
-- 📌 Building real-world software projects
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkulat14&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 📌 Strengthening Data Structures & Algorithms.
+- 📌 Learning NumPy, Pandas and Data Visualization.
+- 📌 Exploring Machine Learning algorithms.
+- 📌 Improving SQL and database management skills.
+- 📌 Building real-world software projects.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/shivamkulat14">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:shivamkulat14@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💡 "Consistency turns small efforts into remarkable results."
+### 💬 "Dream. Build. Break. Learn. Repeat."
 
-**Thanks for visiting my profile! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
