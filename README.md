@@ -8,16 +8,24 @@
 <br/><br/>
 
 <a href="https://github.com/shivamkulat14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/shivamkulat14?tab=repositories">
-<img src="https://img.shields.io/badge/My_Projects-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-</a>
-<a href="mailto:shivamkulat14@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFD43B?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=shivamkulat14&style=for-the-badge&color=306998&label=PROFILE+VIEWS"/>
+<a href="https://github.com/shivamkulat14?tab=repositories">
+<img src="https://img.shields.io/badge/My_Projects-306998?style=for-the-badge&logo=python&logoColor=FFD43B" />
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-k-4656b2373/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shivamkulat14@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shivamkulat14&style=for-the-badge&color=306998&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -61,6 +69,7 @@ Hey there! I'm **Shivam**, a Computer Science and AI/ML student passionate about
 - 🧠 Exploring Machine Learning and intelligent applications.
 - 🗄️ Practicing SQL and database management.
 - 🚀 Building projects and participating in hackathons.
+- 🎯 Focused on becoming a skilled Software Developer and ML Engineer.
 
 > My philosophy: Don't just learn the syntax. Build something meaningful with it.
 
@@ -129,6 +138,7 @@ An agricultural project focused on crop health analysis and harvest prediction.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -183,13 +193,13 @@ A structured collection of SQL concepts, assignments and practical query impleme
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkulat14&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD43B&icon_color=306998"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamkulat14&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD43B&icon_color=306998" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkulat14&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD43B"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkulat14&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD43B&langs_count=8" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=shivamkulat14&theme=tokyonight&hide_border=true&ring=FFD43B&fire=306998&currStreakLabel=FFD43B"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=shivamkulat14&theme=tokyonight&hide_border=true&ring=FFD43B&fire=306998&currStreakLabel=FFD43B" />
 
 </div>
 
@@ -199,7 +209,7 @@ A structured collection of SQL concepts, assignments and practical query impleme
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamkulat14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shivamkulat14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
 
 </div>
 
@@ -209,7 +219,7 @@ A structured collection of SQL concepts, assignments and practical query impleme
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkulat14&theme=tokyo-night&hide_border=true&area=true&color=FFD43B&line=306998" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkulat14&theme=tokyo-night&hide_border=true&area=true&color=FFD43B&line=306998" width="100%" />
 
 </div>
 
@@ -219,7 +229,7 @@ A structured collection of SQL concepts, assignments and practical query impleme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -242,22 +252,25 @@ A structured collection of SQL concepts, assignments and practical query impleme
 <div align="center">
 
 <a href="https://github.com/shivamkulat14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/shivamkulat14?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Projects-306998?style=for-the-badge&logo=python&logoColor=FFD43B" />
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-k-4656b2373/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:shivamkulat14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
 ### 💛 "First, solve the problem. Then, write the code."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,50:142D4E,100:0B1622&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,50:142D4E,100:0B1622&height=130&section=footer" width="100%" />
 
 </div>
-
