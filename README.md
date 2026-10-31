@@ -42,7 +42,7 @@ class ShivamKulat:
 
     def __init__(self):
         self.name = "Shivam S. Kulat"
-        self.role = "Python Developer"
+        self.role = "Data Anlyst"
         self.education = "B.Tech CS & AI/ML"
         self.interests = [
             "Backend Development",
